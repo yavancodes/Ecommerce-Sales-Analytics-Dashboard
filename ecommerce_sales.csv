@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Customer_ID,City,Product,Category,Quantity,Unit_Price,Discount_Percent,Sales,Payment_Method,Order_Status
+1001,2025-11-24,C016,Pune,Headphones,Electronics,1,2500,5,2375.0,Credit Card,Shipped
+1002,2025-12-13,C028,Mumbai,Notebook,Books,1,150,15,127.5,UPI,Delivered
+1003,2025-04-30,C013,Hyderabad,Notebook,Books,1,150,15,127.5,Cash,Delivered
+1004,2025-10-29,C045,Delhi,Jeans,Fashion,1,1800,0,1800.0,Debit Card,Delivered
+1005,2025-04-21,C025,Mumbai,Shoes,Fashion,1,3200,0,3200.0,Debit Card,Shipped
+1006,2025-11-06,C035,Mumbai,Jeans,Fashion,1,1800,10,1620.0,Cash,Delivered
+1007,2025-05-31,C013,Hyderabad,Novel,Books,3,350,15,892.5,UPI,Delivered
+1008,2025-04-27,C007,Delhi,Jeans,Fashion,1,1800,0,1800.0,Debit Card,Delivered
+1009,2025-07-06,C014,Hyderabad,Smartphone,Electronics,3,22000,5,62700.0,Debit Card,Shipped
+1010,2025-12-16,C047,Pune,Headphones,Electronics,2,2500,15,4250.0,Credit Card,Delivered
+1011,2025-05-19,C054,Mumbai,Notebook,Books,2,150,5,285.0,Credit Card,Shipped
+1012,2025-06-11,C014,Bengaluru,Coffee Maker,Home,3,4500,0,13500.0,Debit Card,Delivered
+1013,2025-09-13,C017,Pune,Coffee Maker,Home,4,4500,0,18000.0,Credit Card,Shipped
+1014,2025-10-03,C026,Nagpur,Jeans,Fashion,4,1800,15,6120.0,Credit Card,Returned
+1015,2025-03-12,C049,Mumbai,Notebook,Books,4,150,0,600.0,UPI,Delivered
+1016,2025-03-23,C025,Bengaluru,Coffee Maker,Home,1,4500,10,4050.0,Cash,Delivered
+1017,2025-10-11,C049,Nagpur,Laptop,Electronics,1,55000,15,46750.0,Debit Card,Delivered
+1018,2025-08-11,C047,Hyderabad,Smartphone,Electronics,4,22000,0,88000.0,Debit Card,Returned
+1019,2025-04-02,C054,Hyderabad,Notebook,Books,1,150,5,142.5,Credit Card,Delivered
+1020,2025-03-24,C021,Delhi,Notebook,Books,1,150,15,127.5,UPI,Delivered
+1021,2025-07-05,C016,Bengaluru,Jeans,Fashion,2,1800,0,3600.0,UPI,Delivered
+1022,2025-09-06,C043,Delhi,Headphones,Electronics,2,2500,0,5000.0,Credit Card,Delivered
+1023,2025-11-07,C049,Hyderabad,Coffee Maker,Home,2,4500,15,7650.0,Credit Card,Shipped
+1024,2025-07-24,C029,Mumbai,Shoes,Fashion,4,3200,15,10880.0,Credit Card,Delivered
+1025,2025-06-23,C015,Mumbai,Laptop,Electronics,2,55000,15,93500.0,UPI,Shipped
+1026,2025-01-31,C022,Mumbai,T-Shirt,Fashion,1,700,0,700.0,Credit Card,Delivered
+1027,2025-09-06,C037,Delhi,T-Shirt,Fashion,2,700,15,1190.0,Credit Card,Shipped
+1028,2025-07-28,C043,Delhi,T-Shirt,Fashion,1,700,0,700.0,Debit Card,Delivered
+1029,2025-08-28,C026,Hyderabad,Laptop,Electronics,1,55000,0,55000.0,Debit Card,Shipped
+1030,2025-02-25,C035,Delhi,T-Shirt,Fashion,2,700,0,1400.0,Credit Card,Delivered
+1031,2025-05-23,C029,Bengaluru,Mixer,Home,2,2800,0,5600.0,UPI,Delivered
+1032,2025-10-04,C011,Delhi,Laptop,Electronics,1,55000,0,55000.0,Cash,Delivered
+1033,2025-07-25,C001,Delhi,Laptop,Electronics,2,55000,10,99000.0,Debit Card,Cancelled
+1034,2025-08-21,C043,Hyderabad,Jeans,Fashion,4,1800,15,6120.0,Cash,Delivered
+1035,2025-06-01,C048,Bengaluru,T-Shirt,Fashion,1,700,15,595.0,UPI,Shipped
+1036,2025-01-30,C055,Bengaluru,Laptop,Electronics,4,55000,15,187000.0,Credit Card,Delivered
+1037,2025-09-18,C039,Mumbai,Headphones,Electronics,2,2500,0,5000.0,Credit Card,Delivered
+1038,2025-10-19,C006,Delhi,T-Shirt,Fashion,1,700,15,595.0,Debit Card,Cancelled
+1039,2025-04-15,C026,Pune,Shoes,Fashion,2,3200,5,6080.0,Debit Card,Delivered
+1040,2025-02-07,C037,Mumbai,Laptop,Electronics,4,55000,15,187000.0,UPI,Delivered
+1041,2025-09-17,C005,Pune,Jeans,Fashion,2,1800,5,3420.0,Debit Card,Delivered
+1042,2025-08-13,C052,Hyderabad,Notebook,Books,3,150,15,382.5,UPI,Delivered
+1043,2025-10-11,C017,Mumbai,Jeans,Fashion,1,1800,0,1800.0,UPI,Shipped
+1044,2025-03-21,C014,Hyderabad,Jeans,Fashion,3,1800,15,4590.0,Debit Card,Delivered
+1045,2025-11-21,C055,Mumbai,Jeans,Fashion,4,1800,5,6840.0,UPI,Delivered
+1046,2025-05-22,C050,Pune,Laptop,Electronics,1,55000,5,52250.0,Debit Card,Delivered
+1047,2025-08-15,C001,Mumbai,Notebook,Books,4,150,15,510.0,UPI,Cancelled
+1048,2025-12-20,C038,Bengaluru,Smartphone,Electronics,1,22000,5,20900.0,Credit Card,Delivered
+1049,2025-01-22,C023,Pune,Jeans,Fashion,3,1800,0,5400.0,Credit Card,Delivered
+1050,2025-07-01,C048,Pune,Notebook,Books,4,150,15,510.0,Credit Card,Cancelled
+1051,2025-04-01,C048,Nagpur,Coffee Maker,Home,1,4500,0,4500.0,Cash,Shipped
+1052,2025-05-08,C025,Mumbai,Jeans,Fashion,2,1800,0,3600.0,Cash,Delivered
+1053,2025-08-24,C015,Mumbai,Shoes,Fashion,3,3200,0,9600.0,Credit Card,Delivered
+1054,2025-05-23,C042,Bengaluru,Headphones,Electronics,3,2500,5,7125.0,Cash,Delivered
+1055,2025-10-02,C017,Pune,Shoes,Fashion,1,3200,0,3200.0,Debit Card,Delivered
+1056,2025-11-02,C028,Bengaluru,Coffee Maker,Home,3,4500,5,12825.0,UPI,Delivered
+1057,2025-10-23,C046,Delhi,T-Shirt,Fashion,3,700,0,2100.0,UPI,Delivered
+1058,2025-10-03,C005,Hyderabad,T-Shirt,Fashion,3,700,10,1890.0,Debit Card,Delivered
+1059,2025-12-06,C020,Hyderabad,Headphones,Electronics,3,2500,15,6375.0,Cash,Delivered
+1060,2025-12-23,C027,Hyderabad,Jeans,Fashion,2,1800,0,3600.0,Cash,Delivered
+1061,2025-03-31,C036,Mumbai,Novel,Books,3,350,10,945.0,Debit Card,Delivered
+1062,2025-08-09,C029,Delhi,Novel,Books,3,350,10,945.0,Credit Card,Delivered
+1063,2025-03-28,C043,Hyderabad,Headphones,Electronics,3,2500,15,6375.0,Debit Card,Delivered
+1064,2025-05-01,C010,Mumbai,Jeans,Fashion,2,1800,0,3600.0,UPI,Delivered
+1065,2025-09-01,C027,Hyderabad,Novel,Books,1,350,10,315.0,Credit Card,Shipped
+1066,2025-07-16,C010,Hyderabad,Mixer,Home,4,2800,0,11200.0,UPI,Cancelled
+1067,2025-02-24,C052,Hyderabad,Coffee Maker,Home,2,4500,0,9000.0,Cash,Delivered
+1068,2025-05-08,C052,Delhi,Headphones,Electronics,4,2500,0,10000.0,Debit Card,Returned
+1069,2025-08-15,C029,Pune,Novel,Books,4,350,15,1190.0,Cash,Delivered
+1070,2025-05-07,C018,Delhi,Jeans,Fashion,4,1800,0,7200.0,UPI,Shipped
+1071,2025-05-01,C035,Mumbai,Jeans,Fashion,3,1800,5,5130.0,Credit Card,Delivered
+1072,2025-07-16,C027,Delhi,Smartphone,Electronics,2,22000,0,44000.0,Debit Card,Delivered
+1073,2025-08-01,C025,Bengaluru,Laptop,Electronics,2,55000,10,99000.0,UPI,Cancelled
+1074,2025-10-22,C023,Nagpur,Coffee Maker,Home,4,4500,0,18000.0,Cash,Cancelled
+1075,2025-08-03,C015,Nagpur,Notebook,Books,2,150,10,270.0,Cash,Delivered
+1076,2025-07-19,C054,Delhi,Shoes,Fashion,4,3200,0,12800.0,Credit Card,Returned
+1077,2025-10-01,C037,Hyderabad,Laptop,Electronics,4,55000,15,187000.0,UPI,Delivered
+1078,2025-08-08,C004,Nagpur,Smartphone,Electronics,4,22000,0,88000.0,Cash,Delivered
+1079,2025-08-21,C018,Delhi,Shoes,Fashion,3,3200,10,8640.0,Debit Card,Shipped
+1080,2025-08-29,C015,Hyderabad,Laptop,Electronics,1,55000,5,52250.0,UPI,Shipped
+1081,2025-11-30,C013,Mumbai,Laptop,Electronics,1,55000,0,55000.0,Credit Card,Delivered
+1082,2025-08-31,C045,Nagpur,Headphones,Electronics,2,2500,10,4500.0,Debit Card,Delivered
+1083,2025-11-07,C007,Bengaluru,Headphones,Electronics,2,2500,5,4750.0,UPI,Cancelled
+1084,2025-10-22,C005,Bengaluru,Coffee Maker,Home,4,4500,0,18000.0,Credit Card,Delivered
+1085,2025-06-04,C051,Mumbai,Novel,Books,1,350,15,297.5,Debit Card,Delivered
+1086,2025-12-05,C042,Nagpur,Shoes,Fashion,1,3200,15,2720.0,UPI,Shipped
+1087,2025-09-08,C041,Delhi,Headphones,Electronics,4,2500,5,9500.0,Credit Card,Delivered
+1088,2025-09-25,C028,Hyderabad,Jeans,Fashion,4,1800,10,6480.0,Debit Card,Delivered
+1089,2025-05-06,C016,Delhi,Headphones,Electronics,3,2500,10,6750.0,Cash,Delivered
+1090,2025-09-11,C014,Nagpur,Shoes,Fashion,2,3200,10,5760.0,Debit Card,Delivered
+1091,2025-11-02,C013,Mumbai,Jeans,Fashion,1,1800,15,1530.0,Credit Card,Shipped
+1092,2025-09-08,C042,Hyderabad,Notebook,Books,2,150,10,270.0,Cash,Delivered
+1093,2025-01-09,C026,Hyderabad,Headphones,Electronics,3,2500,0,7500.0,Credit Card,Delivered
+1094,2025-10-25,C034,Nagpur,Shoes,Fashion,4,3200,15,10880.0,Cash,Returned
+1095,2025-10-09,C018,Nagpur,Shoes,Fashion,3,3200,10,8640.0,Debit Card,Delivered
+1096,2025-04-09,C049,Hyderabad,Shoes,Fashion,1,3200,15,2720.0,Credit Card,Delivered
+1097,2025-09-05,C054,Pune,Jeans,Fashion,3,1800,0,5400.0,Debit Card,Delivered
+1098,2025-04-02,C009,Nagpur,Jeans,Fashion,1,1800,15,1530.0,UPI,Returned
+1099,2025-10-11,C007,Mumbai,Jeans,Fashion,2,1800,10,3240.0,Debit Card,Delivered
+1100,2025-08-14,C017,Delhi,Shoes,Fashion,2,3200,0,6400.0,UPI,Shipped
+1101,2025-07-25,C041,Hyderabad,Mixer,Home,1,2800,15,2380.0,UPI,Delivered
+1102,2025-10-16,C008,Bengaluru,Jeans,Fashion,1,1800,0,1800.0,Cash,Delivered
+1103,2025-11-13,C029,Nagpur,T-Shirt,Fashion,4,700,10,2520.0,Cash,Delivered
+1104,2025-11-14,C041,Pune,Laptop,Electronics,1,55000,0,55000.0,Debit Card,Delivered
+1105,2025-03-22,C005,Pune,T-Shirt,Fashion,2,700,15,1190.0,UPI,Delivered
+1106,2025-12-19,C003,Pune,Novel,Books,4,350,5,1330.0,Debit Card,Shipped
+1107,2025-12-26,C017,Hyderabad,Mixer,Home,1,2800,0,2800.0,Credit Card,Delivered
+1108,2025-10-06,C053,Pune,T-Shirt,Fashion,2,700,5,1330.0,UPI,Delivered
+1109,2025-06-07,C008,Delhi,Novel,Books,3,350,10,945.0,Debit Card,Delivered
+1110,2025-05-20,C006,Bengaluru,Notebook,Books,4,150,10,540.0,UPI,Cancelled
+1111,2025-06-15,C006,Pune,Novel,Books,3,350,0,1050.0,UPI,Returned
+1112,2025-12-11,C031,Bengaluru,Jeans,Fashion,1,1800,0,1800.0,Cash,Cancelled
+1113,2025-04-03,C006,Delhi,Novel,Books,4,350,10,1260.0,Debit Card,Delivered
+1114,2025-06-14,C027,Hyderabad,Headphones,Electronics,2,2500,5,4750.0,Cash,Delivered
+1115,2025-07-25,C006,Nagpur,Notebook,Books,1,150,10,135.0,Debit Card,Delivered
+1116,2025-07-26,C030,Delhi,Notebook,Books,1,150,15,127.5,UPI,Delivered
+1117,2025-07-05,C049,Mumbai,Novel,Books,4,350,10,1260.0,Credit Card,Delivered
+1118,2025-03-09,C008,Mumbai,Jeans,Fashion,4,1800,10,6480.0,Credit Card,Shipped
+1119,2025-06-09,C027,Mumbai,Notebook,Books,1,150,15,127.5,Credit Card,Returned
+1120,2025-02-28,C032,Hyderabad,Mixer,Home,1,2800,0,2800.0,Debit Card,Delivered
